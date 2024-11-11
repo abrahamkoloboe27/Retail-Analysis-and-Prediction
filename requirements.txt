@@ -6,3 +6,4 @@ streamlit
 joblib
 prophet
 statsmodels
+xgboost
