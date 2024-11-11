@@ -49,8 +49,8 @@ st.markdown("<h1 class='header' style='text-align: center; background-color: #AD
 # Charger les données
 @st.cache_data
 def load_data():
-    df_data = pd.read_csv('train.csv', parse_dates=['Date'])
-    df_stores = pd.read_csv('store.csv')
+    df_data = pd.read_csv('data/train.csv', parse_dates=['Date'])
+    df_stores = pd.read_csv('data/store.csv')
     df = pd.merge(df_data, df_stores, on='Store', how='left')
     return df
 
