@@ -1,0 +1,3 @@
+Linear Regression - MAE: 1125.64, RMSE: 1578.45, MAPE: 17.92%
+Random Forest - MAE: 675.44, RMSE: 997.56, MAPE: 10.58%
+XGBoost - MAE: 637.73, RMSE: 940.67, MAPE: 9.85%
