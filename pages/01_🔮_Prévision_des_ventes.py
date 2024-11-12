@@ -330,7 +330,7 @@ st.markdown(
         text-decoration: underline;
     }
     </style>
-    <p class='footer'>💡 Dashboard créé avec ❤️ par <a href='https://github.com/AbrahamKOLOBOE' target='_blank'>Abraham KOLOBOE</a></p>
+    <p class='footer'>💡 Dashboard créé avec ❤️ par <a href='https://www.linkedin.com/in/abraham-zacharie-koloboe-data-science-ia-generative-llms-machine-learning/' target='_blank'>Abraham KOLOBOE</a></p>
     """,
     unsafe_allow_html=True
 )
