@@ -6,6 +6,8 @@ import pandas as pd
 import plotly.express as px
 import joblib
 import plotly.graph_objects as go
+import warnings
+warnings.filterwarnings('ignore')
 
 # Configuration de la page
 st.set_page_config(page_title="📊 Dashboard Analytics des Ventes", layout="wide")
